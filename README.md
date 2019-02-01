@@ -29,7 +29,10 @@ After Installation Open pgAdmin4 to Access Database
 
 
 ## 4.Online Drawing Tool
-* LucidChart https://www.lucidchart.com/
+* Use LucidChart https://www.lucidchart.com/
+
+## 5.LaTex Documentation
+* Use OverLeaf Latex Online Editor https://www.overleaf.com/
 
 
 
