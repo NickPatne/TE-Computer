@@ -11,6 +11,7 @@
 
  #####  Downlaod Visual Studio Code from https://code.visualstudio.com/download
  #####  Download Visual Studio Insider from https://code.visualstudio.com/insiders/ (In case when VS Code not work)
+ > Use ``Keyboard-Shortcut for windows.pdf`` file to efficiently work with VS code Editor
 
 ***
 
