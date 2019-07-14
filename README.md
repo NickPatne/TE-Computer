@@ -1,7 +1,6 @@
 ## Workshop on Recent Technical Skill and Tools
 
 ## Presented By:
- * Abhishek Shinde
 * Nikhil Patne
 
 # User Guide
